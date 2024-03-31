@@ -1,0 +1,22 @@
+{
+  "name": "@bshiladitya/is-idiot",
+  "version": "1.0.3",
+  "description": "is the string idiot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiladityab24/test-npm-package.git"
+  },
+  "keywords": [
+    "idiot"
+  ],
+  "author": "shiladitya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiladityab24/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/shiladityab24/test-npm-package#readme"
+}
